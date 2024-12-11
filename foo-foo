@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+# foo-foo plugin
+# Description: A dashboard plugin
+
+set -e
+
+# Plugin implementation goes here
+echo "Hello from foo-foo plugin!" 
